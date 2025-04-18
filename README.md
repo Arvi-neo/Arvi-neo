@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I’m Arvin
 
-<!--
-**Arvi-neo/Arvi-neo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Global Category Manager  
+📍 Based in Stockholm | 🌍 Working across borders and time zones  
+Thinking in systems. Zooming out, then drilling down
+Not a coder yet - still in the loop
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+     
+- Electronics & tech procurement
+- Curious about how tech drives business (and vice versa)  
+- Curious about business models and growth
+
+---
+
+#### Here, you’ll find
+
+- Frameworks  
+- Templates  
+- Notes & ideas
+
+##### 🎧 Off the Clock
+Techno. Cities. Clear thinking.
+
+---
