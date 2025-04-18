@@ -2,7 +2,7 @@
 
 Global Category Manager  
 📍 Based in Stockholm | 🌍 Working across borders and time zones  
-Thinking in systems. Zooming out, then drilling down
+Thinking in systems. Zooming out, then drilling down  
 Not a coder yet - still in the loop
 
 ---
